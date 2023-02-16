@@ -9,11 +9,10 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me Email: **dev.alaminpk@gmail.com**
--                   Linkdin: **https://www.linkedin.com/in/devalaminpramanik/**
--                  Facebook: ** https://www.facebook.com/alaminislam365**
-- ⚡ Fun fact **I am Funny**
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **dev.alaminpk@gmail.com**
+
+- ⚡ Fun fact **I am a Good student**
+<h3 align="left">Connect with me: 8801782488123</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alamin pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alamin pk" height="30" width="40" /></a>
 <a href="https://fb.com/alamin pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alamin pk" height="30" width="40" /></a>
