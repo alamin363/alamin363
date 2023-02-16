@@ -9,8 +9,9 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **dev.alaminpk@gmail.com**
-
+- 📫 How to reach me Email: **dev.alaminpk@gmail.com**
+-                   Linkdin: **https://www.linkedin.com/in/devalaminpramanik/**
+-                  Facebook: ** https://www.facebook.com/alaminislam365**
 - ⚡ Fun fact **I am Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
